@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Pagantis Payment Gateway v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-24 13:46+0100\n"
+"PO-Revision-Date: 2014-03-24 13:58+0100\n"
+"Last-Translator: Felipe Fernandez <ffperera@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ pagantis.com
+#: pagantis.php:54
+msgid "Pay by Credit or Debit card."
+msgstr "Pago con tarjeta de crédito o débito"
+
+# @ pagantis.com
+#: pagantis.php:55
+msgid "Pay by Credit or Debit card through secure gateway."
+msgstr "Pago con tarjeta de crédito o débito"
+
+# @ pagantis.com
+#: pagantis.php:115
+msgid "Pagantis"
+msgstr "Pagantis"
+
+# @ pagantis.com
+#: pagantis.php:116
+msgid ""
+"Notification URL. Use this URL in the Notification field of your Pagantis "
+"account"
+msgstr ""
+"URL para la notificación desde Pagantis. Debe configurar esta URL en su "
+"cuenta de Pagantis, en el apartado Notificaciones"
+
+# @ pagantis.com
+#: pagantis.php:138
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+# @ pagantis.com
+#: pagantis.php:140
+msgid "Enable Pagantis Payment Module."
+msgstr "Activar el módulo de pago de Pagantis"
+
+# @ pagantis.com
+#: pagantis.php:157
+msgid "Note for credit card operation:"
+msgstr "Concepto para extracto bancario"
+
+# @ pagantis.com
+#: pagantis.php:159
+msgid "Payment note for credit card owners."
+msgstr ""
+"Concepto que aparecerá al cliente en su extracto bancario. A este texto se "
+"añade automáticamente el número de pedido"
+
+# @ pagantis.com
+#: pagantis.php:160
+msgid "Your payment for order: "
+msgstr "Pago correspondiente al pedido: "
+
+# @ pagantis.com
+#: pagantis.php:162
+msgid "Pagantis account ID"
+msgstr "Código de su cuenta Pagantis"
+
+# @ pagantis.com
+#: pagantis.php:164
+msgid "Identificator of your pagantis account"
+msgstr ""
+"Código de la cuenta. Copie el identificador que aparece en su cuenta de "
+"Pagantis, en el apartado API"
+
+# @ pagantis.com
+#: pagantis.php:167
+msgid "Pagantis secret key"
+msgstr "Clave de firma de Pagantis"
+
+# @ pagantis.com
+#: pagantis.php:169
+msgid "Secret key of your pagantis account"
+msgstr ""
+"Copie la clave de firma que aparece en su cuenta de Pagantis, en el apartado "
+"API"
+
+# @ default
+#: pagantis.php:172
+msgid "Return page on success"
+msgstr "Página si pago correcto"
+
+# @ pagantis.com
+#: pagantis.php:175
+msgid "URL (WordPress page) to return on payment success"
+msgstr "Página tras pago correcto"
+
+# @ default
+#: pagantis.php:178
+msgid "Return page on failure"
+msgstr "Página si pago fallido"
+
+# @ pagantis.com
+#: pagantis.php:181
+msgid "URL (WordPress page) to return on payment failure"
+msgstr "Página tras pago no válido"
+
+# @ pagantis.com
+#: pagantis.php:199
+msgid ""
+"Thank you for your order, please click the button below to pay with Pagantis."
+msgstr "Gracias por su compra, pulse el botón para realizar el pago"
+
+# @ pagantis.com
+#: pagantis.php:258
+msgid ""
+"Thank you for your order. We are now redirecting you to Pagantis to make "
+"payment."
+msgstr "Gracias por su compra, pulse el botón para realizar el pago."
+
+# @ pagantis.com
+#: pagantis.php:286
+msgid "Pay"
+msgstr "Pagar"
+
+# @ pagantis.com
+#: pagantis.php:286
+msgid "Cancel order &amp; restore cart"
+msgstr "Cancelar pedido"
